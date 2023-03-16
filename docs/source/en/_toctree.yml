@@ -28,6 +28,8 @@
       title: Load and add custom pipelines
     - local: using-diffusers/kerascv
       title: Load KerasCV Stable Diffusion checkpoints
+    - local: using-diffusers/auto_hardware_setup
+      title: Load Stable Diffusion on Remote Self-Hosted Hardware
     title: Loading & Hub
   - sections:
     - local: using-diffusers/pipeline_overview
